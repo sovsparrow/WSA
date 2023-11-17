@@ -7,7 +7,8 @@ This Python project aims to scrape the 1-week weather forecast for the 81 provin
 
 The project is organized into the following components:
 
-- `weather_scraper.py`: The main Python script containing the weather scraping logic.
+- `weather_scraping_app.py`: The main Python script containing the weather scraping logic.
+- `Weather_Scraping_App.ipynb`: The Python script as a notebook file with steps.
 - `TR_metoffice` and `TR`: Dictionaries mapping plate numbers to city names and vice versa.
 - `get_weather_weather`, `get_weather_metoffice`, `get_weather_havadurumux`: Functions to scrape weather data from different websites.
 - `DB`: List to store the scraped weather data.
